@@ -1,6 +1,6 @@
 # Flutter Al Quran App
 
-Flutter Tutorial for Design layouting and integration data from API purpose for Reading and Learning Al Quran
+An app that can be used to read Al Quran
 
 # Figma
 
